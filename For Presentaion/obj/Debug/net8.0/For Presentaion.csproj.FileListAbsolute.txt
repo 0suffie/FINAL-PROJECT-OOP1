@@ -1,0 +1,14 @@
+C:\Users\suffie\source\repos\For Presentaion\bin\Debug\net8.0\For Presentaion.exe
+C:\Users\suffie\source\repos\For Presentaion\bin\Debug\net8.0\For Presentaion.deps.json
+C:\Users\suffie\source\repos\For Presentaion\bin\Debug\net8.0\For Presentaion.runtimeconfig.json
+C:\Users\suffie\source\repos\For Presentaion\bin\Debug\net8.0\For Presentaion.dll
+C:\Users\suffie\source\repos\For Presentaion\bin\Debug\net8.0\For Presentaion.pdb
+C:\Users\suffie\source\repos\For Presentaion\obj\Debug\net8.0\For Presentaion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suffie\source\repos\For Presentaion\obj\Debug\net8.0\For Presentaion.AssemblyInfoInputs.cache
+C:\Users\suffie\source\repos\For Presentaion\obj\Debug\net8.0\For Presentaion.AssemblyInfo.cs
+C:\Users\suffie\source\repos\For Presentaion\obj\Debug\net8.0\For Presentaion.csproj.CoreCompileInputs.cache
+C:\Users\suffie\source\repos\For Presentaion\obj\Debug\net8.0\For Presentaion.dll
+C:\Users\suffie\source\repos\For Presentaion\obj\Debug\net8.0\refint\For Presentaion.dll
+C:\Users\suffie\source\repos\For Presentaion\obj\Debug\net8.0\For Presentaion.pdb
+C:\Users\suffie\source\repos\For Presentaion\obj\Debug\net8.0\For Presentaion.genruntimeconfig.cache
+C:\Users\suffie\source\repos\For Presentaion\obj\Debug\net8.0\ref\For Presentaion.dll

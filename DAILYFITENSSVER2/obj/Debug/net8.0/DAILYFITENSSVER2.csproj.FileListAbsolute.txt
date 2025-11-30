@@ -1,0 +1,14 @@
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\bin\Debug\net8.0\DAILYFITENSSVER2.exe
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\bin\Debug\net8.0\DAILYFITENSSVER2.deps.json
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\bin\Debug\net8.0\DAILYFITENSSVER2.runtimeconfig.json
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\bin\Debug\net8.0\DAILYFITENSSVER2.dll
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\bin\Debug\net8.0\DAILYFITENSSVER2.pdb
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\obj\Debug\net8.0\DAILYFITENSSVER2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\obj\Debug\net8.0\DAILYFITENSSVER2.AssemblyInfoInputs.cache
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\obj\Debug\net8.0\DAILYFITENSSVER2.AssemblyInfo.cs
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\obj\Debug\net8.0\DAILYFITENSSVER2.csproj.CoreCompileInputs.cache
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\obj\Debug\net8.0\DAILYFITENSSVER2.dll
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\obj\Debug\net8.0\refint\DAILYFITENSSVER2.dll
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\obj\Debug\net8.0\DAILYFITENSSVER2.pdb
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\obj\Debug\net8.0\DAILYFITENSSVER2.genruntimeconfig.cache
+C:\Users\suffie\source\repos\DAILYFITENSSVER2\obj\Debug\net8.0\ref\DAILYFITENSSVER2.dll
